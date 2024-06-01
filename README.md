@@ -14,7 +14,7 @@ pagina-html-simples/
 ```
 
     index.html: O arquivo HTML principal.
-    imagens/exemplo.jpg: A imagem que será exibida na página HTML.
+    assets/exemplo.jpg: A imagem que será exibida na página HTML.
     README.md: O arquivo de documentação do projeto.
 
 Como Usar
